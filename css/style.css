@@ -2,13 +2,21 @@
 
 body {
     padding-top: 70px;
+    background-;
     }
-
-
+    
 /*heading styling*/
+#work {
+    margin-bottom: 50px;
+}
 
+#skills {
+    margin-bottom: 50px;
+}
 
-
+#contact {
+    margin-bottom: 50px;
+}
 
 /*Hero styling*/
 .col-md-6 img {
@@ -18,16 +26,26 @@ body {
     height: auto;
     }
 
+/*containers styling*/
+.container-work {
+    padding-top: 30px;
+    }
+
 .container-skills {
     padding-top: 100px;
     }
 
-/*heading styling*/
+.container-contact {
+    padding-top: 50px;
+    }
 
-#work {
-    margin-bottom: 50px;
+/*button styling*/ 
+.btn {
+    background-color: #3f5470
 }
 
-#skills {
-    margin-bottom: 50px;
+/*list styling*/
+.list-group li {
+    border-color: #3c536e;
+    font-size: 20px;
 }
