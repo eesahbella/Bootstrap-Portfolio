@@ -1,8 +1,18 @@
 
 
+/*heading styling*/
+
+
+
+
+/*Hero styling*/
 .col-md-6 img {
     margin-left: auto;
     margin-right: 0;
     max-width: 100%;
     height: auto;
-  }
+    }
+
+    .container-skills ul {
+    color: blue;  
+    }
