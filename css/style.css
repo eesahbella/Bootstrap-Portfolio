@@ -13,6 +13,16 @@
     height: auto;
     }
 
-    .container-skills ul {
-    color: blue;  
+.container-skills {
+    padding-top: 100px;
     }
+
+/*heading styling*/
+
+#work {
+    margin-bottom: 50px;
+}
+
+#skills {
+    margin-bottom: 50px;
+}
