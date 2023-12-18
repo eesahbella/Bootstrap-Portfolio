@@ -8,15 +8,18 @@ body {
 /*heading styling*/
 #work {
     margin-bottom: 50px;
+    
 }
 
 #skills {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
+    
 }
 
 #contact {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     padding-left: 25px;
+    ;
 }
 
 .card-body h2 {
@@ -37,11 +40,13 @@ body {
     width: 500px; 
 }
 
-/* .container-contact img {
+.container-skills img {
     position: relative;
-    left: 130px;
-    bottom: 110px;
-} */
+    left: 100px;
+    bottom: 55px;
+    margin: 0 15px;
+}
+
 
 /*containers styling*/
 .container-work {
@@ -88,10 +93,6 @@ body {
     color: #3f5470;
     font-size: 20px;
     line-height: 100px;
-    /* position: relative;
-    left: 290px;
-    bottom: 500px;
-    height: 140px; */
 }
 
 /*paragraph styling*/
