@@ -15,7 +15,8 @@ body {
 }
 
 #contact {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
+    padding-left: 25px;
 }
 
 .card-body h2 {
@@ -36,18 +37,24 @@ body {
     width: 500px; 
 }
 
+/* .container-contact img {
+    position: relative;
+    left: 130px;
+    bottom: 110px;
+} */
+
 /*containers styling*/
 .container-work {
     padding-top: 30px;
 }
 
 .container-skills {
-    padding-top: 100px;
+    padding-top: 120px;
 }
 
 .container-about {
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 
 /*button styling*/ 
@@ -69,10 +76,28 @@ body {
     font-size: 20px;
 }
 
+.container-contact li {
+    color: #3f5470;
+    padding-bottom: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    list-style: none;
+}
+
+.container-contact p {
+    color: #3f5470;
+    font-size: 20px;
+    line-height: 100px;
+    /* position: relative;
+    left: 290px;
+    bottom: 500px;
+    height: 140px; */
+}
+
 /*paragraph styling*/
 .card-body p {
     line-height: 1.5;
     font-size: 18px;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     word-spacing: 2px;
 }
