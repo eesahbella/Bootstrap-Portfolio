@@ -2,7 +2,7 @@
 
 body {
     padding-top: 70px;
-    background-;
+    
     }
     
 /*heading styling*/
@@ -66,10 +66,26 @@ body {
     padding-bottom: 80px;
 }
 
+/*background styles*/
+
+.jumbotron.p-5 {
+    
+}
+
 /*button styling*/ 
 .btn {
-    background-color: #3f5470
+    background-color: #3f5470;
+    }
+
+
+
+
+.btn:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
+
+
+
 
 .card-body .btn {
     display: block;
@@ -106,3 +122,15 @@ body {
     letter-spacing: 0.5px;
     word-spacing: 2px;
 }
+
+/*link styling*/
+
+.container-contact a {
+    text-decoration: none;
+    color: #3f5470;;
+}
+
+.container-contact a:hover {
+        color:blueviolet;
+        text-decoration: underline;
+    }
