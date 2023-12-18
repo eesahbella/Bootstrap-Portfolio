@@ -47,6 +47,10 @@ body {
     margin: 0 15px;
 }
 
+.container-about img {
+    padding-top: 20px;
+}
+
 
 /*containers styling*/
 .container-work {
