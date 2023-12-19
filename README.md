@@ -1,9 +1,9 @@
-# Isabel Toledano - Web Developergit
+# Isabel Toledano - Web Developer
 
 ## Description
 
 Welcome to my portfolio, which showcases my talents and projects using Bootstrap. This portfolio was created with Bootstrap and refined with custom CSS. Discover my projects, about me and opportunities to interact by browsing the thoughtfully arranged sections, whether you're a prospective employer or just a curious visitor.
-
+git 
 
 
 ## Usage
